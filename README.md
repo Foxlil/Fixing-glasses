@@ -27,9 +27,9 @@ Threshold angle: 30
 <br>
 <i>The rest of the settings are already automatically set by the slicer.</i>
 # Bill of materials
-- Glass watch screw 2.5 X 1.4 X 6.0 mm
-- Sand paper
-- Super glue
+- Glass watch screw 2.5 X 1.4 X 6.0 mm -> $7.99 -> https://a.co/d/00xMulaC
+- Sand paper -> $5.69 -> https://a.co/d/04tFT5KB
+- Super glue -> $9.99 -> https://a.co/d/04ECuO9W
 
 # Assembly
 1. You should see a rectangle-shaped cavity in the temple part. 
